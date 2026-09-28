@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "dotenv": "^18.0.0",
+    "pg": "^8.23.0",
+    "autoprefixer": "^10.6.1",
+    "lucide-react": "^1.47.0",
+    "postcss": "^8.5.28",
+    "react-router-dom": "^7.18.4",
+    "tailwindcss": "^4.3.3"
+  }
+}
